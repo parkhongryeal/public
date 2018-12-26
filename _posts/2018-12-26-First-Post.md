@@ -1,8 +1,8 @@
 ---
-title: 1주차 TEAM SAY !
+title: 1주차 팀 빌딩
 ---
 
-# 1주차 SAY !
+# We are SAY !
 
 연습
 
