@@ -1,8 +1,8 @@
 ---
-title: (1주차) SAY !
+title: 1주차 TEAM SAY !
 ---
 
-# 주제 1
+# 1주차 SAY !
 
 연습
 
