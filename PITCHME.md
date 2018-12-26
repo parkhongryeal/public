@@ -23,6 +23,7 @@
 ---
 # 팀원이름 : 허정건<br>
 별명 : 버섯돌이<br>
+<img src="http://blogfiles.naver.net/20121014_153/mvvvvm_13502045616488iDaT_JPEG/%BB%A1%B0%AD%B9%F6%BC%B8.jpg" width="300" height="300"><br>
 성격 : 주도적인<br><br>
 ---
 # 연말계획
