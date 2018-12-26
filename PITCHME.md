@@ -2,6 +2,7 @@
 ---
 팀원이름 : 김용현<br>
 별명 : 익룡<br>
+<img src="http://blogfiles.naver.net/20130412_176/unitrust01_1365724986612RY7Yd_JPEG/%BE%C6%B1%E2%C0%CD%B7%E6.jpg" width="300" height="300"><br>
 성격 : 주도적인<br><br>
 ---
 # 팀원이름 : 최슬아<br>
