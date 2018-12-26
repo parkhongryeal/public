@@ -10,6 +10,7 @@
 ---
 # 팀원이름 : 박홍렬<br>
 별명 : 콩<br>
+<img src = "https://github.com/parkhongryeal/public/blob/master/bean.PNG">
 성격 : 낯가림<br><br>
 ---
 # 팀원이름 : 백진선<br>
