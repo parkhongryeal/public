@@ -1,4 +1,4 @@
----?color=lightgray
+---?color=blue
 
 @snap[north-west]
 The Agenda
