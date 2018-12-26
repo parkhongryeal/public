@@ -1,5 +1,5 @@
 ---
-title: 자기 주도 학습
+title: 2주차 SlackBot_1
 ---
 
 # 주제 1
