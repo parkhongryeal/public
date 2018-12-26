@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/public"
+baseurl: "public"
 url: "https://parkhongryeal.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
