@@ -15,7 +15,7 @@
 ---
 # 팀원이름 : 백진선<br>
 별명 : 쨜리엄니<br>
-<img src="http://post.phinf.naver.net/MjAxNzA5MTNfNTMg/MDAxNTA1Mjg4Mzc0Njky.nFjqfOA1d4PUCXwzHSKgdKTs3c-6qE754cnmXwd-KcEg.YQ1g9Oni19b3nkn8oCD7W5aZDpdJBdt88dWDsdzzD1cg.JPEG/IeQArW0DPwQhvUN8ZH8LNm8DUUII.jpg" width="300" height="300">
+<img src="http://post.phinf.naver.net/MjAxNzA5MTNfNTMg/MDAxNTA1Mjg4Mzc0Njky.nFjqfOA1d4PUCXwzHSKgdKTs3c-6qE754cnmXwd-KcEg.YQ1g9Oni19b3nkn8oCD7W5aZDpdJBdt88dWDsdzzD1cg.JPEG/IeQArW0DPwQhvUN8ZH8LNm8DUUII.jpg" width="300" height="300"><br>
 성격 : 사려깊은<br><br>
 ---
 # 팀원이름 : 조성모<br>
