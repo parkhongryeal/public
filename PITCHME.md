@@ -13,25 +13,37 @@
 # 팀원이름 : 박홍렬<br>
 별명 : 콩<br>
 &nbsp;&nbsp;&nbsp;<img src="http://post.phinf.naver.net/20150612_175/budnamoo007_1434066886379s3Q86_JPEG/mug_obj_20150612085446571.jpg" width="300" height="300"><br>
-성격 : 낯가림<br><br>
+성격 : 은근히 나댐<br><br>
 연말계획 : 회보고 해먹기
 ---
 # 팀원이름 : 백진선<br>
 별명 : 쨜리엄니<br>
 <img src="http://post.phinf.naver.net/MjAxNzA5MTNfNTMg/MDAxNTA1Mjg4Mzc0Njky.nFjqfOA1d4PUCXwzHSKgdKTs3c-6qE754cnmXwd-KcEg.YQ1g9Oni19b3nkn8oCD7W5aZDpdJBdt88dWDsdzzD1cg.JPEG/IeQArW0DPwQhvUN8ZH8LNm8DUUII.jpg" width="300" height="300"><br>
-성격 : 사려깊은<br><br>
+성격 : 하늘 무서운줄 모르다.<br><br>
 연말계획 : 이불 속에서 귤까먹기
 ---
 # 팀원이름 : 조성모<br>
 별명 : 성모마리아<br>
 <img src="http://post.phinf.naver.net/MjAxODA0MThfMjc4/MDAxNTI0MDQ0MTk4NzMz.vERRGIBkvH4RLz6NE75N6tK4NCOg-6VZINCJbTlKn3Eg.HAIx3gdMSR1rhGuA7MFMVIQ51q7QUgcG5-0ed7Jh_hog.JPEG/IAaKQuusftjtOldEmz3UnB5bdV90.jpg" width="300" height="300"><br>
-성격 : 감성적인<br><br>
+성격 : 진지하다.<br><br>
 연말계획 : 종소리들으며 치킨먹기
 ---
 # 팀원이름 : 허정건<br>
 별명 : 버섯돌이<br>
 <img src="http://blogfiles.naver.net/20121014_153/mvvvvm_13502045616488iDaT_JPEG/%BB%A1%B0%AD%B9%F6%BC%B8.jpg" width="300" height="300"><br>
-성격 : 주도적인<br><br>
+성격 : 너무 평범하다.<br><br>
 연말계획 : 가족들과 종소리 듣기
 ---
-# 연말계획
+# 주제1(1주차)
+공감 : 소비자를 위해 소비자의 요구사항을 사전조사 하는 단계
+      페르소나기법을 이용하여 소비자의 입장에서 생각할 수 있는 장점이 있다.
+       
+문제정의 : 소비자의 요구사항을 바탕으로 문제를 정의하는 단계
+      고객여정맵을 이용하여 소비자의 문제를 정의
+      
+아이디어 도출 : 소비자의 요구사항을 바탕으로 아이디어를 도출하는 단계
+      마인드맵과 SCAMPER로 아이디어를 발전시킴
+시제품 제작 : 도출된 아이디어와 소비자의 요구사항을 바탕으로 프로토타입 제작
+      AdobeXD mookup 툴을 이용하여 프로토타입 제작
+테스트 : 제작된 프로토타입 테스트
+      
