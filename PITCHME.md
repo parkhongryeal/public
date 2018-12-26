@@ -10,7 +10,7 @@
 ---
 # 팀원이름 : 박홍렬<br>
 별명 : 콩<br>
-<li><img src="http://post.phinf.naver.net/20150612_175/budnamoo007_1434066886379s3Q86_JPEG/mug_obj_20150612085446571.jpg" width="300" height="300"></li><br>
+&nbsp;&nbsp;&nbsp;<img src="http://post.phinf.naver.net/20150612_175/budnamoo007_1434066886379s3Q86_JPEG/mug_obj_20150612085446571.jpg" width="300" height="300"><br>
 성격 : 낯가림<br><br>
 ---
 # 팀원이름 : 백진선<br>
