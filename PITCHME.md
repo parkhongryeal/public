@@ -17,7 +17,7 @@ The Agenda
 @olend
 <br><br>
 @snapend
----
+---?color=lightgray
 팀원이름 : 김용현<br>
 별명 : 익룡<br>
 성격 : 주도적인<br><br>
