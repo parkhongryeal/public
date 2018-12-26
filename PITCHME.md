@@ -1,5 +1,23 @@
+---?color=blue
 
----
+@snap[north-west]
+The Agenda
+@snapend
+
+@snap[south-west list-content-concise span-60]
+@ol[](false)
+- Lorem ipsum dolor sit amet
+- Consectetur adipiscing elit
+- Sed do eiusmod tempor
+- Ut enim ad minim veniam
+- Duis aute irure dolor in
+- Excepteur sint occaecat
+- Cupidatat non proident
+- Sunt in culpa qui officia
+@olend
+<br><br>
+@snapend
+---?color=lightgray
 팀원이름 : 김용현<br>
 별명 : 익룡<br>
 <img src="http://blogfiles.naver.net/20130412_176/unitrust01_1365724986612RY7Yd_JPEG/%BE%C6%B1%E2%C0%CD%B7%E6.jpg" width="300" height="300"><br>
